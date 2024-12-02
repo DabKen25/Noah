@@ -1,0 +1,1 @@
+model with name _1 = model without normalisasi
